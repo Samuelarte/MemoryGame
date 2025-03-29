@@ -2,7 +2,7 @@
 //  MemoryGameApp.swift
 //  MemoryGame
 //
-//  Created by Erisanny Vargas on 3/28/25.
+//  Created by Samuel Lopez on 3/28/25.
 //
 
 import SwiftUI
@@ -15,3 +15,4 @@ struct MemoryGameApp: App {
         }
     }
 }
+
